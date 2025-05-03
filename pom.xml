@@ -4,9 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dan</groupId>
+    <groupId>io.github.AstafevDan</groupId>
     <artifactId>kafka-log4j2-appender</artifactId>
     <version>1.0.0</version>
+    <packaging>jar</packaging>
     <name>Simple Kafka Log4j2 Appender</name>
     <description>Kafka Appender for Log4j2</description>
 

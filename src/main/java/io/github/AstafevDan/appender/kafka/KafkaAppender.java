@@ -1,4 +1,4 @@
-package com.dan.appender.kafka;
+package io.github.AstafevDan.appender.kafka;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.Producer;

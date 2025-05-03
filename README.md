@@ -1,0 +1,1 @@
+# Простой Kafka Log4j2 Appender

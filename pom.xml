@@ -25,6 +25,14 @@
         </license>
     </licenses>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>AstafevDan</name>
+            <url>https://maven.pkg.github.com/AstafevDan/kafka-log4j2-appender</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
